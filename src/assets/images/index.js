@@ -1,0 +1,5 @@
+export { default as img1 } from './bg-1.jfif'
+export { default as img2 } from './bg-2.jfif'
+export { default as img3 } from './bg-3.jfif'
+export { default as img4 } from './bg-4.jfif'
+export { default as img5 } from './bg-5.jfif'
