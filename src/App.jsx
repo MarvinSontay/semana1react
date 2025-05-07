@@ -3,7 +3,6 @@ import phrases from './data/phrases.json'
 import { getItemRandom } from './lib/utils'
 import { img1, img2, img3, img4, img5 } from './assets/images'
 import './App.css'
-import { buildErrorMessage } from 'vite'
 
 const colors = ['#F9A826', '#F26B6B', '#F2D74E', '#A3D8F4', '#A3D8F4']
 const images = [img1, img2, img3, img4, img5]
