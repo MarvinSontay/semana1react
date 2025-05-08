@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import phrases from './data/phrases.json'
+import phrases from './phrases.json'
 import { getItemRandom } from './lib/utils'
 import { img1, img2, img3, img4, img5 } from './assets/images'
 import './App.css'
